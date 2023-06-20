@@ -1,6 +1,6 @@
 # Mask-Regularized-Diffeomorphic-Cell-Registration
 
-This is code used in ***Fine-grained, Nonlinear Image Registration of Live Cell Movies Reveals Spatiotemporal Organization of Diffuse Molecular Processes*** by Xuexia Jiang, Tadamoto Isogai, Joseph Chi, and Gaudenz Danuser. (bioRxiv preprint can be found [here](https://www.biorxiv.org/content/10.1101/2021.11.22.469497v1) – manuscript is accepted and link of the publication will be updated.)
+This is code used in [**Fine-grained, nonlinear registration of live cell movies reveals spatiotemporal organization of diffuse molecular processes**](https://doi.org/10.1371/journal.pcbi.1009667), *PLOS Computational Biology*, 2022, 18(12): e1009667, written by Xuexia Jiang, Tadamoto Isogai, Joseph Chi, [Gaudenz Danuser](https://www.danuserlab-utsw.org/).
 
 Example data is provided [here](https://cloud.biohpc.swmed.edu/index.php/s/kQqJSdXNyCmqEdC/download).
 
@@ -16,3 +16,8 @@ numFrames = 181;
 outPath = '/Desired_out_path/out.mat';
 RegisterCell(strFolderBase, strDonor, strRatio, numFrames, outPath)
 ```
+
+## Danuser Lab Links
+[Danuser Lab Website](https://www.danuserlab-utsw.org/)
+
+[Software Links](https://github.com/DanuserLab/)
